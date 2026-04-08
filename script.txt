@@ -1,0 +1,2 @@
+cd "C:\Users\User\Desktop\Refurb AI\smartphone_classifier"
+ streamlit run app.py
